@@ -1,0 +1,492 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+    
+    header {
+        padding: 15px 0;
+        .logo {
+            font-size: 20px;
+        }
+
+        ul {
+            padding: 0 15px;
+            li {
+                a {
+                    font-size: 14px;
+                }
+                .dropdown {
+                    .dropdown-menu {
+                        &.show {
+                            margin-top: 18px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+}
+
+/******************************************************************************************/
+/******************************************************************************************/
+/******************************************************************************************/
+
+@media (min-width: 768px) and (max-width: 991px) {
+    
+    header {
+        padding: 15px 0;
+        .logo {
+            font-size: 20px;
+        }
+    }
+    
+    #cards-saude {
+        margin-top: -65px;
+        .card {
+            .card-head {
+                padding: 10px;
+                span {
+                    font-size: 10px;
+                    margin-bottom: 5px;
+                }
+                h2 {
+                    font-size: 16px;
+                    margin-bottom: 5px;
+                }
+                p {
+                    font-size: 12px;
+                    margin: 0;
+                }
+            }
+        }
+        .btn-saude {
+            padding: 20px 0;
+            .btn {
+                font-size: 10px;
+                padding: 10px 50px;
+            }
+        }
+    }
+
+    #audiovisual {
+        padding: 20px 0;
+        h3 {
+            font-size: 30px;
+        }
+        ul {
+            margin: 20px 0 0 0;
+            padding: 0 10px;
+            li {
+                font-size: 12px;
+            }
+        }
+        .quadro {
+            padding: 15px 0;
+            img {
+                padding-bottom: 10px;
+            }
+        }
+        .btn-saude {
+            padding: 20px 0;
+            .btn {
+                font-size: 10px;
+                padding: 10px 50px;
+            }
+        }
+    }
+
+    #formulario {
+        padding: 20px 0;
+        h4 {
+            font-size: 24px;
+            margin: 0 0 20px;
+        }
+        .form-group {
+            label {
+                font-size: 12px;
+            }
+        }
+        .btn-form {
+            padding-top: 16px;
+            .btn {
+                font-size: 10px;
+            }
+        }
+    }
+    #disclaimer {
+        padding: 20px 0;
+        span {
+            font-size: 12px;
+        }
+    }
+
+}
+
+/******************************************************************************************/
+/******************************************************************************************/
+/******************************************************************************************/
+
+@media (min-width: 576px) and (max-width: 767px) {
+    
+    header {
+        padding: 10px 0;
+        .logo {
+            font-size: 22px;
+        }
+    }
+    
+    #cards-saude {
+        margin-top: -65px;
+        .card {
+            .card-head {
+                padding: 10px;
+                span {
+                    font-size: 10px;
+                    margin-bottom: 5px;
+                }
+                h2 {
+                    font-size: 16px;
+                    margin-bottom: 5px;
+                }
+                p {
+                    font-size: 12px;
+                    margin: 0;
+                }
+            }
+        }
+        .btn-saude {
+            padding: 20px 0;
+            .btn {
+                font-size: 10px;
+                padding: 10px 50px;
+            }
+        }
+    }
+
+    #audiovisual {
+        padding: 20px 0;
+        h3 {
+            font-size: 30px;
+        }
+        ul {
+            margin: 20px 0 0 0;
+            padding: 0 10px;
+            li {
+                font-size: 12px;
+            }
+        }
+        .quadro {
+            padding: 15px 0;
+            img {
+                padding-bottom: 10px;
+            }
+        }
+        .btn-saude {
+            padding: 20px 0;
+            .btn {
+                font-size: 10px;
+                padding: 10px 50px;
+            }
+        }
+    }
+
+    #formulario {
+        padding: 20px 0;
+        h4 {
+            font-size: 24px;
+            margin: 0 0 20px;
+        }
+        .form-group {
+            label {
+                font-size: 12px;
+            }
+        }
+        .btn-form {
+            padding-top: 16px;
+            .btn {
+                font-size: 10px;
+            }
+        }
+    }
+    #disclaimer {
+        padding: 20px 0;
+        span {
+            font-size: 12px;
+        }
+    }
+
+}
+
+/******************************************************************************************/
+/******************************************************************************************/
+/******************************************************************************************/
+
+@media (max-width: 575px) {
+    
+    header {
+        padding: 10px 0;
+        .logo {
+            font-size: 18px;
+        }
+    }
+    
+    #cards-saude {
+        margin-top: -65px;
+        .card {
+            .card-head {
+                padding: 10px;
+                span {
+                    font-size: 10px;
+                    margin-bottom: 5px;
+                }
+                h2 {
+                    font-size: 16px;
+                    margin-bottom: 5px;
+                }
+                p {
+                    font-size: 12px;
+                    margin: 0;
+                }
+            }
+        }
+        .btn-saude {
+            padding: 20px 0;
+            .btn {
+                font-size: 10px;
+                padding: 10px 50px;
+            }
+        }
+    }
+
+    #audiovisual {
+        padding: 20px 0;
+        h3 {
+            font-size: 30px;
+        }
+        ul {
+            margin: 20px 0 0 0;
+            padding: 0 10px;
+            li {
+                font-size: 12px;
+            }
+        }
+        .quadro {
+            padding: 15px 0;
+            img {
+                padding-bottom: 10px;
+            }
+        }
+        .btn-saude {
+            padding: 20px 0;
+            .btn {
+                font-size: 10px;
+                padding: 10px 50px;
+            }
+        }
+    }
+
+    #formulario {
+        padding: 20px 0;
+        h4 {
+            font-size: 24px;
+            margin: 0 0 20px;
+        }
+        .form-group {
+            label {
+                font-size: 12px;
+            }
+        }
+        .btn-form {
+            padding-top: 16px;
+            .btn {
+                font-size: 10px;
+            }
+        }
+    }
+    #disclaimer {
+        padding: 20px 0;
+        span {
+            font-size: 12px;
+        }
+    }
+
+}
+
+/******************************************************************************************/
+/******************************************************************************************/
+/******************************************************************************************/
+
+@media (max-width: 420px) {
+    
+    header {
+        .logo {
+            font-size: 14px;
+        }
+        .menu-mobile {
+            .menu-fechado {
+                padding: 10px;
+                width: 70%;
+                .fechar {
+                    padding: 5px 12px;
+                    height: 35px;
+                    width: 35px;
+                    margin-right: 5px;
+                }
+                ul {
+                    padding: 40px 0 0;
+                    li {
+                        a {
+                            font-size: 12px;
+                            &:hover {
+                                border-bottom: 1px solid;
+                            }
+                        }
+                        .dropdown {
+                            .dropdown-menu {
+                                &.show {
+                                    display: block;
+                                    margin-top: 5px;
+                                    margin-left: 15px;
+                                }
+                                .dropdown-item {
+                                    font-size: 10px;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    
+    #cards-saude {
+        margin-top: -45px;
+        .card {
+            .card-head {
+                span {
+                    font-size: 8px;
+                }
+                h2 {
+                    font-size: 12px;
+                }
+                p {
+                    font-size: 10px;
+                }
+            }
+        }
+        .btn-saude {
+            .btn {
+                font-size: 8px;
+            }
+        }
+    }
+
+    #audiovisual {
+        h3 {
+            font-size: 26px;
+        }
+        .btn-saude {
+            .btn {
+                font-size: 8px;
+            }
+        }
+    }
+
+    #formulario {
+        h4 {
+            font-size: 20px;
+            margin: 0 0 16px;
+        }
+        .form-group {
+            label {
+                font-size: 10px;
+            }
+        }
+        .btn-form {
+            padding-top: 16px;
+        }
+    }
+    #disclaimer {
+        span {
+            font-size: 10px;
+        }
+    }
+
+}
+
+/******************************************************************************************/
+/******************************************************************************************/
+/******************************************************************************************/
+
+@media (max-width: 320px) {
+
+    header {
+        .menu-mobile {
+            .menu-fechado {
+                padding: 10px;
+                width: 70%;
+                .fechar {
+                    padding: 5px 12px;
+                    height: 35px;
+                    width: 35px;
+                    margin-right: 5px;
+                }
+                ul {
+                    padding: 40px 0 0;
+                    li {
+                        a {
+                            font-size: 12px;
+                            &:hover {
+                                border-bottom: 1px solid;
+                            }
+                        }
+                        .dropdown {
+                            .dropdown-menu {
+                                &.show {
+                                    display: block;
+                                    margin-top: 5px;
+                                    margin-left: 15px;
+                                }
+                                .dropdown-item {
+                                    font-size: 10px;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    
+    #cards-saude {
+        display: none;
+    }
+
+    #audiovisual {
+        h3 {
+            font-size: 22px;
+        }
+        ul {
+            margin: 10px 0 0 0;
+            padding: 0 5px;
+            li {
+                font-size: 10px;
+            }
+        }
+        .btn-saude {
+            .btn {
+                padding: 5px 30px;
+            }
+        }
+    }
+
+    #formulario {
+        h4 {
+            font-size: 16px;
+        }
+    }
+    #disclaimer {
+        span {
+            font-size: 8px;
+        }
+    }
+
+}

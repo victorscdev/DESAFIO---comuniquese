@@ -1,0 +1,48 @@
+#formulario {
+    padding: 90px 0;
+    h4 {
+        color: #01DA96;
+        font-size: 40px;
+        margin: 0 0 40px;
+        padding: 0;
+        text-align: center;
+    }
+    .form-group {
+        label {
+            color: #A0A0A0;
+            font-size: 16px;
+            margin: 0;
+            padding: 0 0 0 10px;
+        }
+        .form-control {
+            border: none;
+            border-radius: 40px;
+            color: #A0A0A0;
+        }
+    }
+    .btn-form {
+        padding-top: 22px;
+        .btn {
+            border-radius: 40px;
+            background-color: #01ADFF;
+            color: #ffffff;
+            font-size: 18px;
+            font-weight: bold;
+            padding: 5px 40px;
+            width: 100%;
+            &:hover {
+                background-color: #461BFF;
+            }
+        }
+    }
+}
+#disclaimer {
+    background-color: #28235C;
+    padding: 50px 0;
+    span {
+        color: #FFFFFF;
+        font-size: 16px;
+        margin: 0;
+        padding: 0;
+    }
+}

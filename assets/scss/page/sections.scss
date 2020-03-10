@@ -1,0 +1,111 @@
+#cards-saude {
+    margin-top: -185px;
+    .card {
+        border: none;
+        background: #ffffff;
+        border-radius: 8px;
+        overflow: hidden;
+        cursor: pointer;
+        &:hover {
+            color: none;
+            text-decoration: none;
+            .card-head {
+                p {
+                    text-decoration: underline;
+                }
+            }
+        }
+        .card-head {
+            padding: 30px;
+            overflow: hidden;
+            span {
+                color: #2F2F2F;
+                display: block;
+                font-size: 14px;
+                font-style: normal;
+                margin-bottom: 15px;
+            }
+            h2 {
+                color: #01DA96;
+                font-size: 22px;
+                font-weight: bold;
+                font-style: normal;
+                margin-bottom: 15px;
+            }
+            p {
+                color: #5E5D5D;
+                font-size: 16px;
+                font-style: normal;
+                margin: 0;
+            }
+        }
+    }
+    .btn-saude {
+        padding: 50px 0;
+        text-align: center;
+        .btn {
+            border-radius: 40px;
+            background-color: #6D6E72;
+            color: #ffffff;
+            font-size: 18px;
+            font-weight: bold;
+            padding: 20px 100px;
+            &:hover {
+                background-color: #20DEA3;
+            }
+        }
+    }
+}
+#audiovisual {
+    background-color: #461BFF;
+    padding: 80px 0;
+    h3 {
+        color: #FFFFFF;
+        font-size: 40px;
+        text-align: center;
+        margin: 0;
+    }
+    ul {
+        display: flex;
+        justify-content: space-between;
+        margin: 70px 0 0 0;
+        padding: 0 20px;
+        li {
+            color: #FFFFFF;
+            font-size: 18px;
+            list-style: none;
+            cursor: pointer;
+            &:hover {
+                color: #FFFFFF;
+                text-decoration: none;
+                border-bottom: 2px solid;
+            }
+            &.ativo {
+                color: #FFFFFF;
+                text-decoration: none;
+                border-bottom: 2px solid;
+            }
+        }
+    }
+    .quadro {
+        padding: 30px 0;
+        img {
+            padding-bottom: 20px;
+        }
+    }
+    .btn-saude {
+        padding: 0;
+        text-align: center;
+        .btn {
+            border-radius: 40px;
+            background-color: #6D6E72;
+            color: #ffffff;
+            font-size: 18px;
+            font-weight: bold;
+            padding: 20px 100px;
+            &:hover {
+                background-color: #20DEA3;
+            }
+        }
+    }
+}
